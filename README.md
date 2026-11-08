@@ -33,7 +33,7 @@ l'on peut aussi récupérer une commande passée en ligne.
   Québec par la boutique spécialisée du Gnome Archiviste.
 - 🧙 **Des outils pour les tables.** Des fiches de personnage pour Foundry VTT et Roll20 (dans cette organisation),
   et une participation à [Naheulbook](https://naheulbook.fr), l'application de gestion de parties du Donjon de
-  Naheulbeuk.
+  Naheulbeuk, un effort commun avec NaQ et PoC.
 
 ## Nos sites
 
@@ -85,7 +85,7 @@ can also pick up an order placed online.
   The band's official merchandise, comics, novels and records are regularly distributed in Québec through the Gnome
   Archiviste's specialty shop.
 - 🧙 **Tools for the table.** Character sheets for Foundry VTT and Roll20 (in this organisation), and a part in
-  [Naheulbook](https://naheulbook.fr), the game-management application for *Le Donjon de Naheulbeuk*.
+  [Naheulbook](https://naheulbook.fr), the game-management application for *Le Donjon de Naheulbeuk*, a joint effort with NaQ and PoC.
 
 ## Our sites
 
