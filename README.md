@@ -28,11 +28,12 @@ l'on peut aussi récupérer une commande passée en ligne.
   les personnes daltoniennes, aveugles ou à la motricité réduite.
 - 🛒 **Une boutique.** Jeux de rôle, dés et accessoires, sur [gnomearchiviste.ca](https://gnomearchiviste.ca) et en
   convention. La boutique vend aussi les produits de Rose Froufrou.
-- 🎸 **Naheulbeuk au Québec.** Nous sommes producteur et distributeur québécois des produits du Naheulband, avec
-  l'accord du groupe : t-shirts, musique et autres produits de l'univers de Naheulbeuk, en ligne et en convention.
+- 🎸 **Naheulbeuk au Québec.** Le site officiel des fans québécois du Donjon de Naheulbeuk et du Naheulband. La
+  marchandise officielle, les bandes dessinées, les romans et les disques du groupe sont régulièrement distribués au
+  Québec par la boutique spécialisée du Gnome Archiviste.
 - 🧙 **Des outils pour les tables.** Des fiches de personnage pour Foundry VTT et Roll20 (dans cette organisation),
   et une participation à [Naheulbook](https://naheulbook.fr), l'application de gestion de parties du Donjon de
-  Naheulbeuk, avec NaQ et PoC.
+  Naheulbeuk.
 
 ## Nos sites
 
@@ -80,11 +81,11 @@ can also pick up an order placed online.
   and blind players and for people with limited motor skills.
 - 🛒 **A shop.** Role-playing games, dice and accessories, on [gnomearchiviste.ca](https://gnomearchiviste.ca) and at
   conventions. The shop also sells Rose Froufrou's products.
-- 🎸 **Naheulbeuk au Québec.** We are the Québec producer and distributor of Naheulband products, with the band's
-  agreement: t-shirts, music and other products from the Naheulbeuk universe, online and at conventions.
+- 🎸 **Naheulbeuk au Québec.** The official site of the Québec fans of *Le Donjon de Naheulbeuk* and the Naheulband.
+  The band's official merchandise, comics, novels and records are regularly distributed in Québec through the Gnome
+  Archiviste's specialty shop.
 - 🧙 **Tools for the table.** Character sheets for Foundry VTT and Roll20 (in this organisation), and a part in
-  [Naheulbook](https://naheulbook.fr), the game-management application for *Le Donjon de Naheulbeuk*, with NaQ and
-  PoC.
+  [Naheulbook](https://naheulbook.fr), the game-management application for *Le Donjon de Naheulbeuk*.
 
 ## Our sites
 
