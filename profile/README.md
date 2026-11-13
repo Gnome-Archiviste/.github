@@ -48,7 +48,7 @@ l'on peut aussi récupérer une commande passée en ligne.
 
 ## Notre code ouvert
 
-Nos sites reposent sur deux familles de paquets PHP et Symfony que nous publions sous licence MIT, écrits de zéro,
+Nos sites reposent sur deux familles de paquets PHP et Symfony que nous publions sous licence MIT,
 testés à fond et pensés pour toutes les langues, l'accessibilité et la vie privée (Loi 25, RGPD) :
 
 - **[PHIL](https://github.com/parler-haut-interagir-librement)** — *Parler Haut, Interagir Librement* : la plateforme
@@ -100,8 +100,8 @@ can also pick up an order placed online.
 
 ## Our open source
 
-Our sites run on two families of PHP and Symfony packages that we publish under the MIT licence — written from
-scratch, thoroughly tested, and designed for every language, accessibility and privacy (Loi 25, GDPR):
+Our sites run on two families of PHP and Symfony packages that we publish under the MIT licence —
+thoroughly tested, and designed for every language, accessibility and privacy (Loi 25, GDPR):
 
 - **[PHIL](https://github.com/parler-haut-interagir-librement)** — *Proclaim Honestly, Interact Liberally*: the
   phil-ip platform for building collaborative websites (content, commerce, events, community…) and the PHIL UX design
